@@ -1,4 +1,4 @@
-calculus
+Calculus 3
 ========
 If you already have Mathematica installed 'project.nb' should load without a hitch.
 
