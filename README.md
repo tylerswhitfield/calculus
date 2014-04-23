@@ -11,5 +11,7 @@ After installation it should allow the .cdf version of the document to be opened
 ==========================ONLINE VERSION===============================
 
 Notebook file: https://www.dropbox.com/s/2t46zlwbpprnenp/project.nb
+
 CDF file: https://www.dropbox.com/s/f35a9vobfokels5/project.cdf
+
 PDF: https://www.dropbox.com/s/fc4f419vgfgnqmr/project.pdf
